@@ -1,0 +1,48 @@
+WARNING: you specified the options for cutting by quality, but forogt to enable any of cut_front/cut_tail/cut_right. This will have no effect.
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+Read1 before filtering:
+total reads: 49536362
+total bases: 7430454300
+Q20 bases: 7288145435(98.0848%)
+Q30 bases: 7036303219(94.6955%)
+
+Read2 before filtering:
+total reads: 49536362
+total bases: 7430454300
+Q20 bases: 7219159014(97.1564%)
+Q30 bases: 6911515142(93.0161%)
+
+Read1 after filtering:
+total reads: 49041867
+total bases: 7231668040
+Q20 bases: 7125508369(98.532%)
+Q30 bases: 6906921603(95.5094%)
+
+Read2 after filtering:
+total reads: 49041867
+total bases: 7231668040
+Q20 bases: 7088573795(98.0213%)
+Q30 bases: 6831926508(94.4723%)
+
+Filtering result:
+reads passed filter: 98083734
+reads failed due to low quality: 960364
+reads failed due to too many N: 28626
+reads failed due to too short: 0
+reads with adapter trimmed: 4705694
+bases trimmed due to adapters: 250017440
+
+Duplication rate: 7.09688%
+
+Insert size peak (evaluated by paired-end reads): 252
+
+JSON report: ./JJ_G3_20.fastp_report.json
+HTML report: ./JJ_G3_20.fastp_report.html
+
+/public/home/benthic/miaobenben/miniconda3/envs/wgrs/bin/fastp --detect_adapter_for_pe --cut_mean_quality 20 --length_required 15 --n_base_limit 5 --thread 4 --compression 4 -i ../01.rawreads/JJ_G3_20_1.fq.gz -I ../01.rawreads/JJ_G3_20_2.fq.gz -o ../02.cleanreads/JJ_G3_20_1.fq.gz -O ../02.cleanreads/JJ_G3_20_2.fq.gz --html ./JJ_G3_20.fastp_report.html --json ./JJ_G3_20.fastp_report.json 
+fastp v0.23.2, time used: 421 seconds

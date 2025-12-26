@@ -1,0 +1,46 @@
+[bwa_index] Pack FASTA... 10.15 sec
+[bwa_index] Construct BWT for the packed sequence...
+[BWTIncCreate] textLength=2900837560, availableWord=216113628
+[BWTIncConstructFromPacked] 10 iterations done. 99999992 characters processed.
+[BWTIncConstructFromPacked] 20 iterations done. 199999992 characters processed.
+[BWTIncConstructFromPacked] 30 iterations done. 299999992 characters processed.
+[BWTIncConstructFromPacked] 40 iterations done. 399999992 characters processed.
+[BWTIncConstructFromPacked] 50 iterations done. 499999992 characters processed.
+[BWTIncConstructFromPacked] 60 iterations done. 599999992 characters processed.
+[BWTIncConstructFromPacked] 70 iterations done. 699999992 characters processed.
+[BWTIncConstructFromPacked] 80 iterations done. 799999992 characters processed.
+[BWTIncConstructFromPacked] 90 iterations done. 899999992 characters processed.
+[BWTIncConstructFromPacked] 100 iterations done. 999999992 characters processed.
+[BWTIncConstructFromPacked] 110 iterations done. 1099999992 characters processed.
+[BWTIncConstructFromPacked] 120 iterations done. 1199999992 characters processed.
+[BWTIncConstructFromPacked] 130 iterations done. 1299999992 characters processed.
+[BWTIncConstructFromPacked] 140 iterations done. 1399999992 characters processed.
+[BWTIncConstructFromPacked] 150 iterations done. 1499999992 characters processed.
+[BWTIncConstructFromPacked] 160 iterations done. 1599999992 characters processed.
+[BWTIncConstructFromPacked] 170 iterations done. 1699999992 characters processed.
+[BWTIncConstructFromPacked] 180 iterations done. 1799999992 characters processed.
+[BWTIncConstructFromPacked] 190 iterations done. 1899999992 characters processed.
+[BWTIncConstructFromPacked] 200 iterations done. 1999999992 characters processed.
+[BWTIncConstructFromPacked] 210 iterations done. 2099999992 characters processed.
+[BWTIncConstructFromPacked] 220 iterations done. 2199999992 characters processed.
+[BWTIncConstructFromPacked] 230 iterations done. 2296746312 characters processed.
+[BWTIncConstructFromPacked] 240 iterations done. 2383037144 characters processed.
+[BWTIncConstructFromPacked] 250 iterations done. 2459728648 characters processed.
+[BWTIncConstructFromPacked] 260 iterations done. 2527888264 characters processed.
+[BWTIncConstructFromPacked] 270 iterations done. 2588464712 characters processed.
+[BWTIncConstructFromPacked] 280 iterations done. 2642301160 characters processed.
+[BWTIncConstructFromPacked] 290 iterations done. 2690147128 characters processed.
+[BWTIncConstructFromPacked] 300 iterations done. 2732668712 characters processed.
+[BWTIncConstructFromPacked] 310 iterations done. 2770457976 characters processed.
+[BWTIncConstructFromPacked] 320 iterations done. 2804041160 characters processed.
+[BWTIncConstructFromPacked] 330 iterations done. 2833885960 characters processed.
+[BWTIncConstructFromPacked] 340 iterations done. 2860408008 characters processed.
+[BWTIncConstructFromPacked] 350 iterations done. 2883976856 characters processed.
+[bwt_gen] Finished constructing BWT in 358 iterations.
+[bwa_index] 848.40 seconds elapse.
+[bwa_index] Update BWT... 6.14 sec
+[bwa_index] Pack forward-only FASTA... 5.31 sec
+[bwa_index] Construct SA from BWT and Occ... 294.03 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: /public/home/benthic/miaobenben/miniconda3/envs/wgrs/bin/bwa index -p /public/home/benthic/miaobenben/database/Hdh_hifi/bwa_index/HALdis.HiFi.Genome.hapX_Mitochondrion.Chrom.fasta /public/home/benthic/miaobenben/database/Hdh_hifi/HALdis.HiFi.Genome.hapX_Mitochondrion.Chrom.fasta
+[main] Real time: 1166.354 sec; CPU: 1164.040 sec

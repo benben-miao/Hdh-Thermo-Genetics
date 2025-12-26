@@ -1,0 +1,17 @@
+Looking to launch executable "/public/home/benthic/miaobenben/miniconda3/envs/wgrs/bin/bwa-mem2.avx512bw", simd = .avx512bw
+Launching executable "/public/home/benthic/miaobenben/miniconda3/envs/wgrs/bin/bwa-mem2.avx512bw"
+[bwa_index] Pack FASTA... 27.84 sec
+* Entering FMI_search
+init ticks = 185445080600
+ref seq len = 2900837560
+binary seq ticks = 52070074704
+build suffix-array ticks = 1089138275444
+ref_seq_len = 2900837560
+count = 0, 860202150, 1450418780, 2040635410, 2900837560
+BWT[353930019] = 4
+CP_SHIFT = 6, CP_MASK = 63
+sizeof CP_OCC = 64
+pos: 362604696, ref_seq_len__: 362604695
+max_occ_ind = 45325586
+build fm-index ticks = 168874251958
+Total time taken: 603.0526
