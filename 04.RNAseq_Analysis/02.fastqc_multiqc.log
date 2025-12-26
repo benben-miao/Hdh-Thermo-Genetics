@@ -1,0 +1,49 @@
+/// MultiQC 🔍 | v1.21
+
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G1_1_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G1_1_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G1_2_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G1_2_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G1_3_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G1_3_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G2_1_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G2_1_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G2_2_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G2_2_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G2_31_1_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G2_31_1_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G2_31_2_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G2_31_2_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G2_31_3_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G2_31_3_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G2_3_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G2_3_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G3_1_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G3_1_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G3_2_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G3_2_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G3_3_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/HN_G3_3_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G1_1_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G1_1_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G1_2_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G1_2_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G1_3_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G1_3_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G2_1_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G2_1_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G2_2_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G2_2_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G2_3_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G2_3_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G3_1_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G3_1_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G3_2_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G3_2_2_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G3_3_1_fastqc.zip
+|           multiqc | Search path : /public/home/benthic/miaobenben/biopro/Hdh.JJ_HN_G0_G1_G2_G3.29C_30d/mrna/biorun/02.cleanreads/JJ_G3_3_2_fastqc.zip
+|         searching | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 42/42  
+|            fastqc | Found 42 reports
+|           multiqc | Report      : 02.cleanreads/multiqc_report.html
+|           multiqc | Data        : 02.cleanreads/multiqc_data
+|           multiqc | MultiQC complete

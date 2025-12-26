@@ -1,0 +1,48 @@
+Detecting adapter sequence for read1...
+>Illumina TruSeq Adapter Read 1
+AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+Read1 before filtering:
+total reads: 22926087
+total bases: 3438913050
+Q20 bases: 3354745297(97.5525%)
+Q30 bases: 3199666310(93.043%)
+
+Read2 before filtering:
+total reads: 22926087
+total bases: 3438913050
+Q20 bases: 3279888560(95.3757%)
+Q30 bases: 3036814687(88.3074%)
+
+Read1 after filtering:
+total reads: 22816986
+total bases: 3380518704
+Q20 bases: 3304635810(97.7553%)
+Q30 bases: 3155106806(93.332%)
+
+Read2 after filtering:
+total reads: 22816986
+total bases: 3379349641
+Q20 bases: 3235814109(95.7526%)
+Q30 bases: 3000110076(88.7777%)
+
+Filtering result:
+reads passed filter: 45633972
+reads failed due to low quality: 199350
+reads failed due to too many N: 3944
+reads failed due to too short: 14908
+reads with adapter trimmed: 2960483
+bases trimmed due to adapters: 79736870
+
+Duplication rate: 22.4797%
+
+Insert size peak (evaluated by paired-end reads): 265
+
+JSON report: ./02.cleanreads/JJ_G1_1_fastp_report.json
+HTML report: ./02.cleanreads/JJ_G1_1_fastp_report.html
+
+/public/home/benthic/miaobenben/miniconda3/envs/mrna/bin/fastp --detect_adapter_for_pe --cut_mean_quality 20 --cut_front --cut_tail --length_required 15 --n_base_limit 5 --thread 8 -i ./01.rawreads/JJ_G1_1_1.fq.gz -I ./01.rawreads/JJ_G1_1_2.fq.gz -o ./02.cleanreads/JJ_G1_1_1.fq.gz -O ./02.cleanreads/JJ_G1_1_2.fq.gz --html ./02.cleanreads/JJ_G1_1_fastp_report.html --json ./02.cleanreads/JJ_G1_1_fastp_report.json 
+fastp v0.23.4, time used: 226 seconds
